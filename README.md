@@ -105,7 +105,7 @@ You can deploy on **Vercel, Railway, or Fly.io** with PostgreSQL support.
 ---
 
 ## 👨‍💻 Contributors
-- **Your Name** - Full Stack Developer
+- **Hoang Bui** - Full Stack Developer
 - Open to contributions!
 
 ---
